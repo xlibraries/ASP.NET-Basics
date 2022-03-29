@@ -101,6 +101,20 @@ namespace ModelDemo.Controllers
                     JoiningDate = DateTime.Now,
                     Age = 20
                 },
+                new  Employee
+                {
+                    Id = 2,
+                    Name = "Raja Tirumurthi",
+                    JoiningDate = DateTime.Now,
+                    Age = 35
+                },
+                new  Employee
+                {
+                    Id = 3,
+                    Name = "Ramnya Lakshmanya",
+                    JoiningDate = DateTime.Now,
+                    Age = 27
+                },
             };
         }
 
