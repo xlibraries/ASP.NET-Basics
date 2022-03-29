@@ -1,4 +1,4 @@
-# MVC-Trainning
+# ASP.NET-Basics
 1) Web form:-
 Client server architure
 Client --> Request --> Server(Presentation Layer, Buisness Layer, Data Access Layer, Database) --> Response --> Client
