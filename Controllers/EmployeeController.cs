@@ -9,6 +9,7 @@ namespace MVC_Trainning.Controllers
     public class EmployeeController : Controller
     {
         // GET: Employee
+        
         public string Index()
         {
             return "Inenployee";
