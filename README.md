@@ -31,7 +31,9 @@ Controller :
 -System.Web.MVC.Controller
 -Interact with both models and views
 -Every Controller must end with word 'controller'
----------------------x---------------------------l--------------------------------i----------------------------------b--------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
 1)Routing
 -Conventional based
 -Attribute Based
