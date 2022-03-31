@@ -13,5 +13,15 @@ namespace MVC_Trainning.Controllers
         {
             return View();
         }
+
+        public string MyController()
+        {
+            return "Hellow, I am the controller";
+        }
+
+        public ActionResult MyView()
+        {
+            return View();
+        }
     }
 }
