@@ -7,22 +7,13 @@ using System.Web.Routing;
 
 namespace MVC_Trainning.Controllers
 {
-
-    [RoutePrefix("Pura Home")]
+    [Route("API/Home")]
     public class HomeController : Controller
     {
-        // GET: Home
-        
-        [Route("~/MVC TEST")]
-        public String Index()
+        [HttpGet]
+        public string Show()
         {
-            return "Home home";
-        }
-
-        [Route("~/OLD MVC TEST")]
-        public String OldMethod()
-        {
-            return "Purana Home";
+            return "Batao";
         }
     }
 }
