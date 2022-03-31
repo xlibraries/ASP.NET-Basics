@@ -31,3 +31,13 @@ Controller :
 -System.Web.MVC.Controller
 -Interact with both models and views
 -Every Controller must end with word 'controller'
+---------------------x---------------------------l--------------------------------i----------------------------------b--------------------------------
+1)Routing
+-Conventional based
+-Attribute Based
+
+2)Restful Route
+
+3)Creating Web API Controller for data Access
+
+4)Data Repository and Dependency Injection
